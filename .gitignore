@@ -36,6 +36,3 @@ next-env.d.ts
 
 # temp files
 temp.jpg
-
-# OpenNext build output
-.open-next
